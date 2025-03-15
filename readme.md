@@ -60,8 +60,8 @@ This project implements a Failure Mode and Effects Analysis (FMEA) system for fi
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Sriram-Merugu/FMEA-for-Financial-Transactions
+   cd FMEA-for-Financial-Transactions
    ```
 
 2. **Create a Virtual Environment and Install Dependencies:**
