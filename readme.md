@@ -1,4 +1,3 @@
-Below is the updated `README.md` file reflecting that all non-code files are located in the `assets/` folder:
 
 ---
 
