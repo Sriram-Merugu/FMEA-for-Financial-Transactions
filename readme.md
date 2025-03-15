@@ -46,6 +46,7 @@ This project implements a Failure Mode and Effects Analysis (FMEA) system for fi
     ├── original_graph.png                       # Snapshot image of the original transaction graph.
     └── transaction_graph.html                   # HTML snapshot of the transaction graph with FMEA highlights.
 ```
+Code is deployed in streamlit: https://fmea-for-financial-transactions-ygzy6nw63kvjfzmyenppbh.streamlit.app/
 
 ## Tools and Libraries
 - **Python 3.x**
